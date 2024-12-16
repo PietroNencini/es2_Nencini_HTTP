@@ -1,0 +1,14 @@
+.testo-grosso {
+    font-size: 3.5rem;
+}
+
+#map_space {
+    height: 700px;
+}
+
+#store_seeker:hover {
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    transition: 1s;
+}
